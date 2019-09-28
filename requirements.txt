@@ -1,0 +1,7 @@
+numpy
+ipywidgets
+nbinteract
+matplotlib
+mpl_toolkits
+math
+IPython
